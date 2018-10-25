@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/clientcode/ff-foundations-user-mgt-client-FFF-999/.env">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FFF-1100/ff-foundations-user-mgt-service/tests/unit/test_data.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FFF-1100/ff-foundations-user-mgt-service/tests/unit/test_unit.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FFF-1100/ff-foundations-user-mgt-service/user_management/blueprints/authorizations.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FFF-1100/ff-foundations-user-mgt-service/user_management/blueprints/healthcheck.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FFF-1100/ff-foundations-user-mgt-service/user_management/blueprints/users.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FFF-1100/ff-foundations-user-mgt-service/user_management/config/__init__.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FFF-1100/ff-foundations-user-mgt-service/user_management/config/defaults.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FFF-1100/ff-foundations-user-mgt-service/user_management/config/local.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FFF-1100/ff-foundations-user-mgt-service/user_management/config/logging.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FFF-1100/ff-foundations-user-mgt-service/user_management/config/logging_action.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FFF-1100/ff-foundations-user-mgt-service/user_management/db/entities/authorization.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FFF-1100/ff-foundations-user-mgt-service/user_management/db/entities/user.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FFF-1100/ff-foundations-user-mgt-service/user_management/db/models/users.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FFF-1100/ff-foundations-user-mgt-service/user_management/exceptions.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FFF-1100/ff-foundations-user-mgt-service/user_management/services/auth.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../FFF-1100/ff-foundations-user-mgt-service/user_management/utils/view.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/numpy_tutorials/check_requests.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/numpy_tutorials/sample_1.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/sequence2sequence.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ff-foundations-user-mgt-service-FFF-1113/tests/integration/test_usermanagement.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ff-foundations-user-mgt-service-FFF-1113/user_management/blueprints/healthcheck.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ff-foundations-user-mgt-service-FFF-1113/user_management/db/entities/user.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ff-foundations-user-mgt-service-bug-fix/tests/integration/test_usermanagement.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ff-foundations-user-mgt-service-bug-fix/user_management/blueprints/healthcheck.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ff-foundations-user-mgt-service-bug-fix/user_management/config/local.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
